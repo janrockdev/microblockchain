@@ -6,10 +6,10 @@
 **Introduction**:<br/>
 µBlockchain is a Golang based minimalistic blockchain project to demonstrate all functionalities of blockchain/crypto-assets use case.
 
-**Usage**<br/>
+**Usage**:<br/>
 ```
 ----------------------------------------------------------------------------------------
-Micro:Blockchain usage: 
+Microblockchain usage: 
 ----------------------------------------------------------------------------------------
 getbalance -address ADDRESS - get balance for ADDRESS
 createblockchain -address ADDRESS - creates a blockchain and rewards the mining fee for ADDRESS
