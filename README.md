@@ -1,4 +1,4 @@
-# µBlockchain - DeFiDB Project
+# µBlockchain Project
 
 **Introduction**:<br/>
 µBlockchain is a Golang based minimalistic blockchain project to demonstrate all functionalities of blockchain/crypto-assets use case.
